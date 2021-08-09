@@ -1,0 +1,5 @@
+package com.aws.entity;
+
+public class Student {
+
+}

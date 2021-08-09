@@ -1,0 +1,5 @@
+package com.aws.entity.repository;
+
+public class StudentRepository {
+
+}

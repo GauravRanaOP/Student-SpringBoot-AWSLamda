@@ -1,0 +1,436 @@
+!SESSION 2021-08-02 13:06:50.288 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-08-02 13:07:00.453
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-02 13:07:00.453
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7901a5ab,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7f9d40b3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-02 13:07:04.496
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\gaura'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2021-08-02 13:07:09.401
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-08-09 15:44:58.501 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-08-09 15:45:08.269
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-09 15:45:08.269
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@591febcb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3d6745ed,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-09 15:45:12.026
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\gaura'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-08-09 15:47:10.493
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:47:11.464
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:47:11.752
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:48:52.817
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:49:22.221
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:50:52.623
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:50:54.634
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:50:55.298
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:50:56.188
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY org.eclipse.ui 2 2 2021-08-09 15:51:15.424
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-08-09 15:51:39.090
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 15:51:39.421
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 15:51:39.422
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@ba5c923[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 15:51:39.425
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 15:51:39.461
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-08-09 15:51:39.654
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 15:51:41.681
+!MESSAGE Boot LS startup time from start to initialized: 2248ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 15:51:41.780
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.gDgAEgTCisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 15:51:41.787
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 15:51:41.793
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 15:51:41.794
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 15:51:41.795
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 15:51:41.796
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.gDgAEgTC => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 15:51:41.802
+!MESSAGE classpath=68 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 15:51:41.804
+!MESSAGE buffering callback sts4.classpath.gDgAEgTC aws-springboot false 68
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 15:51:41.805
+!MESSAGE executing callback sts4.classpath.gDgAEgTC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 15:51:42.108
+!MESSAGE executing callback sts4.classpath.gDgAEgTC SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-09 15:52:58.509
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:52:59.105
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:53:17.358
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:53:17.908
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:56:49.922
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:56:50.519
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:56:57.693
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:56:58.283
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:57:27.922
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:57:28.474
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:57:55.578
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 15:57:56.113
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:07:15.377
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:07:15.981
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:07:48.692
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:07:49.303
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:09:13.644
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:09:13.884
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:10:30.830
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:10:33.169
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:10:54.108
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:10:58.112
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:10:59.482
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:18:05.227
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:18:08.822
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:18:12.187
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:13.501
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY Activator 1 0 2021-08-09 16:18:13.502
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:13.506
+!MESSAGE classpath=68 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:13.510
+!MESSAGE buffering callback sts4.classpath.gDgAEgTC aws-springboot false 68
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:13.511
+!MESSAGE executing callback sts4.classpath.gDgAEgTC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:13.532
+!MESSAGE executing callback sts4.classpath.gDgAEgTC SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-09 16:18:14.146
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:18:14.662
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:18:16.406
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:16.407
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:16.411
+!MESSAGE classpath=68 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:16.414
+!MESSAGE buffering callback sts4.classpath.gDgAEgTC aws-springboot false 68
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:16.415
+!MESSAGE executing callback sts4.classpath.gDgAEgTC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:16.439
+!MESSAGE executing callback sts4.classpath.gDgAEgTC SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-09 16:18:16.566
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:18:51.104
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:18:53.118
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:53.119
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:53.123
+!MESSAGE classpath=68 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:53.127
+!MESSAGE buffering callback sts4.classpath.gDgAEgTC aws-springboot false 68
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:53.127
+!MESSAGE executing callback sts4.classpath.gDgAEgTC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:53.147
+!MESSAGE executing callback sts4.classpath.gDgAEgTC SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-09 16:18:53.783
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:18:54.280
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:18:55.167
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:55.168
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:55.172
+!MESSAGE classpath=68 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:55.175
+!MESSAGE buffering callback sts4.classpath.gDgAEgTC aws-springboot false 68
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:55.176
+!MESSAGE executing callback sts4.classpath.gDgAEgTC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 16:18:55.193
+!MESSAGE executing callback sts4.classpath.gDgAEgTC SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-09 16:18:55.296
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:21:17.254
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:21:18.356
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:22:41.386
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:22:42.539
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:25:25.450
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:25:33.408
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:25:33.467
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:25:35.047
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:25:38.887
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:25:39.561
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:25:56.392
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:25:57.423
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:26:12.677
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:26:13.640
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:26:21.613
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:26:22.911
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:29:06.492
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:29:09.779
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:29:33.952
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:29:34.849
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:29:48.454
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:29:49.519
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:29:58.950
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:29:59.779
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:30:28.917
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:30:39.664
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:34:10.917
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:34:14.462
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:34:15.432
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:34:41.758
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:34:42.264
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:49:03.522
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:49:04.115
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:49:53.115
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:49:53.716
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:50:22.983
+!MESSAGE Has main method computation for project 'aws-springboot'
+
+!ENTRY Activator 1 0 2021-08-09 16:50:23.141
+!MESSAGE Has main method computation for project 'aws-springboot'
