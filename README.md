@@ -1,5 +1,6 @@
 # Student-SpringBoot-AWSLamda
 Some Dependencies to add-
+
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-function-adapter-aws</artifactId>
@@ -16,7 +17,8 @@ Some Dependencies to add-
         </dependency>
         
  Plugins that will help you to get your executable JAR file for AWS-console
-  <plugin>
+ 
+            <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-deploy-plugin</artifactId>
                 <configuration>
